@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**YoelRoger/YoelRoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-Here are some ideas to get you started:
+  <div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="400" />
+</div>
+
+## GitHub Stats 📊 :
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=YoelRoger&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YoelRoger/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YoelRoger&theme=algolia" alt="TUS_ESTADISTICAS_DE_GITHUB" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YoelRoger/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoelRoger&theme=algolia" alt="Top Langs" />
+  </a>
+</p>
+
+<br>
+
+
